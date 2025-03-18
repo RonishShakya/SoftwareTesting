@@ -1,9 +1,9 @@
 # SoftwareTesting
 Opencart is an ecommerce website where there are various module like Registration and Login, Product, Add to cart and checkout
 
-Manual Testing of Ecommerce website named Opencart
-Created Test plans and Test cases for the project
-Created Defect Report of the defects in the website
+Manual Testing of Ecommerce website named Opencart,
+Created Test plans and Test cases for the project,
+Created Defect Report of the defects in the website.
 
 Types of Testing done:
  •	Smoke Testing and Sanity Testing
